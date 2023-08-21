@@ -1,0 +1,4 @@
+E:/C++/vscode/demo2/build/CMakeFiles/example.dir
+E:/C++/vscode/demo2/build/CMakeFiles/example_swig_compilation.dir
+E:/C++/vscode/demo2/build/CMakeFiles/edit_cache.dir
+E:/C++/vscode/demo2/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/C++/vscode/demo2/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe -Dexample_EXPORTS @CMakeFiles/example.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\example.dir\\cpp\\examplePYTHON_wrap.cxx.obj -c E:\\C++\\vscode\\demo2\\build\\cpp\\examplePYTHON_wrap.cxx",
+  "file": "E:/C++/vscode/demo2/build/cpp/examplePYTHON_wrap.cxx",
+  "output": "CMakeFiles/example.dir/cpp/examplePYTHON_wrap.cxx.obj"
+},
+{
+  "directory": "E:/C++/vscode/demo2/build",
+  "command": "D:\\MinGW\\mingw64\\bin\\g++.exe -Dexample_EXPORTS @CMakeFiles/example.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\example.dir\\src\\example.cxx.obj -c E:\\C++\\vscode\\demo2\\src\\example.cxx",
+  "file": "E:/C++/vscode/demo2/src/example.cxx",
+  "output": "CMakeFiles/example.dir/src/example.cxx.obj"
+}
+]
